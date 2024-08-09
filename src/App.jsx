@@ -6,6 +6,7 @@ import ParticlesBackground from './components/ParticlesBackground'
 import Experience from './components/Experience'
 import Idea from './components/Idea'
 import { Projects } from './components/Projects'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 const App = () => {
   return (
